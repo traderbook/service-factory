@@ -1,2 +1,4 @@
 rootProject.name = 'service-factory'
 
+include "service-factory-api-trading-account"
+include "service-factory-api-user"

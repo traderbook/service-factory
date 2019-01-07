@@ -1,0 +1,6 @@
+[submodule "service-factory-api-trading-account"]
+	path = service-factory-api-trading-account
+	url = git@github.com:traderbook/service-factory-api-trading-account.git
+[submodule "service-factory-api-user"]
+	path = service-factory-api-user
+	url = git@github.com:traderbook/service-factory-api-user.git
